@@ -28,6 +28,6 @@ MotiveMate is a simple, focused habit builder that helps you create activities, 
 
 ### Contact & feedback
 
-Didn’t find what you need? Reach us via in email sulinki94@gmail.com
+Didn’t find what you need? Reach us via in email sulinski94@gmail.com
 . We read every message and use your feedback to improve.
 Thank you for using MotiveMate and we hope you have a great experience!
